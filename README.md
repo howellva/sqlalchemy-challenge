@@ -9,5 +9,6 @@ Climate Analysis and Exploration
   Precipitation Analysis
   
   Temperature Analysis 
+  ![Image of Yaktocat](https://github.com/howellva/sqlalchemy-challenge/blob/main/homework10/Temp.PNG)
   ![Test Image 1](Temp.PNG)
  ![Test Image 4](https://github.com/howellva/sqlalchemy-challenge/blob/main/homework10/Temp.PNG)
