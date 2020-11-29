@@ -9,4 +9,5 @@ Climate Analysis and Exploration
   Precipitation Analysis
   
   Temperature Analysis 
+  ![Test Image 1](Temp.PNG)
  ![Test Image 4](https://github.com/howellva/sqlalchemy-challenge/blob/main/homework10/Temp.PNG)
